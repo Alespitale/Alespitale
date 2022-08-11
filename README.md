@@ -2,6 +2,20 @@
 
 🌱 I’m currently learning React.js and Node.js.
 
+## Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alespitale&show_icons=true&theme=radical)
+
+## Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alespitale&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Where you can find me:
+
+<p align="left">
+<a href="https://www.linkedin.com/in/alespitale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ale Spitale" height="60" width="60" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
@@ -21,10 +35,10 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="60" height="60"/> 
   </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" alt="c" width="60" height="60"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   </a>
 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
+  </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="60" height="60"/> 
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="60" height="60"/> 
@@ -40,11 +54,11 @@
   </a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="60" height="60"/> 
   </a>
+
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> 
   </a>
   <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> 
   </a>
-
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/>
   </a>
   <a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" alt="sequelize" width="60" height="60"/> 
@@ -57,13 +71,13 @@
   </a>
   <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="60" height="60"/> 
   </a>
+
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="60" height="60"/> 
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialui" width="60" height="60"/> 
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="60" height="60"/> 
   </a>
-
   <a href="https://slack.com/intl/es-ar/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" alt="slack" width="60" height="60"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> 
@@ -74,6 +88,7 @@
   </a>
   <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" alt="bitbucket" width="60" height="60"/> 
   </a>
+
   <a href="https://www.atlassian.com/es/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="jira" width="60" height="60"/> 
   </a>
   <a href="https://trello.com/es" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="trello" width="60" height="60"/> 
@@ -83,18 +98,3 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="visualstudiocode" width="60" height="60"/> 
   </a>
 </p>
-
-## Where you can find me:
-
-<p align="left">
-<a href="https://www.linkedin.com/in/alespitale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ale Spitale" height="60" width="60" /></a>
-</p>
-
-## Skills
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alespitale&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alespitale&show_icons=true&theme=radical)
-
